@@ -3,7 +3,7 @@ const db = require('../models');
 //const { Category } = require('../models/Category');
 //const { Vip, Menu, Category } = require('../models');
 
-mongoose.connect('mongodb://localhost/nowthatsawrap', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/nowthatsawrap', {
   useNewUrlParser: true,
  // useFindAndModify: false,
   useUnifiedTopology: true,
