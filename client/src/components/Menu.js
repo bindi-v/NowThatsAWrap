@@ -44,7 +44,8 @@ function Menu() {
   }
 
   const [menuData, setMenuData] = useState([]);
-  const url = 'http://localhost:3001/'
+  //const url = 'http://localhost:3001/'
+  const url = 'https://nowthatsawrap.onrender.com';
 
   useEffect(() => {
     componentDidMount();

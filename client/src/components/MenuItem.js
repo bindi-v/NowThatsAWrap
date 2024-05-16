@@ -18,7 +18,7 @@ function MenuItem ({ item, handlePageChange }) {
 
   
  // const url = 'http://localhost:3001/'
- const url = 'https://nowthatsawrap.onrender.com'
+ const url = 'https://nowthatsawrap.onrender.com';
 
   useEffect(() => {
     componentDidMount();
