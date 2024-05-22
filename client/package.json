@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nowthatsawrap.herokuapp.com/",
+  "homepage": "https://bindi-v.github.io/NowThatsAWrap/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
