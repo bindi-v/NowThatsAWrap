@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.87146a7d.css",
-    "main.js": "/static/js/main.f8e0557f.js",
-    "static/js/453.f9af8ee5.chunk.js": "/static/js/453.f9af8ee5.chunk.js",
-    "static/media/deliveryPic.jpg": "/static/media/deliveryPic.74b30cd89ba6858d0485.jpg",
-    "static/media/contactme.jpg": "/static/media/contactme.312641653d88d2cdcfff.jpg",
-    "static/media/aboutHeader.jpg": "/static/media/aboutHeader.6ce3a9a4a4ef8e9fbdd7.jpg",
-    "static/media/patioImage.jpg": "/static/media/patioImage.8dd77b45e6609c7b9b9c.jpg",
-    "static/media/cateringevent2.jpg": "/static/media/cateringevent2.139c759b01e0a9ea97cb.jpg",
-    "static/media/chefHaiven.jpg": "/static/media/chefHaiven.adb35bbf02f6010c2210.jpg",
-    "static/media/NTAW BusinessCard2.jpg": "/static/media/NTAW BusinessCard2.7728d47acde3411946ce.jpg",
-    "static/media/logo.jpg": "/static/media/logo.03fff8913814f10010c9.jpg",
-    "static/media/privateevent2.jpg": "/static/media/privateevent2.345727fb86ed3fafe3d7.jpg",
-    "static/media/NTAW BusinessCard1.jpg": "/static/media/NTAW BusinessCard1.9433c3b2479535be45b1.jpg",
-    "static/media/poster.jpg": "/static/media/poster.e9fcb665a734aae95d8a.jpg",
-    "static/media/uberEats.png": "/static/media/uberEats.10d6e221bcd36541c2a4.png",
-    "static/media/doorDash.png": "/static/media/doorDash.f56fd64f0876a6a99aa1.png",
-    "index.html": "/index.html",
-    "main.87146a7d.css.map": "/static/css/main.87146a7d.css.map",
-    "main.f8e0557f.js.map": "/static/js/main.f8e0557f.js.map",
-    "453.f9af8ee5.chunk.js.map": "/static/js/453.f9af8ee5.chunk.js.map"
+    "main.css": "/NowThatsAWrap/static/css/main.87146a7d.css",
+    "main.js": "/NowThatsAWrap/static/js/main.f69179b5.js",
+    "static/js/453.f9af8ee5.chunk.js": "/NowThatsAWrap/static/js/453.f9af8ee5.chunk.js",
+    "static/media/deliveryPic.jpg": "/NowThatsAWrap/static/media/deliveryPic.74b30cd89ba6858d0485.jpg",
+    "static/media/contactme.jpg": "/NowThatsAWrap/static/media/contactme.312641653d88d2cdcfff.jpg",
+    "static/media/aboutHeader.jpg": "/NowThatsAWrap/static/media/aboutHeader.6ce3a9a4a4ef8e9fbdd7.jpg",
+    "static/media/patioImage.jpg": "/NowThatsAWrap/static/media/patioImage.8dd77b45e6609c7b9b9c.jpg",
+    "static/media/cateringevent2.jpg": "/NowThatsAWrap/static/media/cateringevent2.139c759b01e0a9ea97cb.jpg",
+    "static/media/chefHaiven.jpg": "/NowThatsAWrap/static/media/chefHaiven.adb35bbf02f6010c2210.jpg",
+    "static/media/NTAW BusinessCard2.jpg": "/NowThatsAWrap/static/media/NTAW BusinessCard2.7728d47acde3411946ce.jpg",
+    "static/media/logo.jpg": "/NowThatsAWrap/static/media/logo.03fff8913814f10010c9.jpg",
+    "static/media/privateevent2.jpg": "/NowThatsAWrap/static/media/privateevent2.345727fb86ed3fafe3d7.jpg",
+    "static/media/NTAW BusinessCard1.jpg": "/NowThatsAWrap/static/media/NTAW BusinessCard1.9433c3b2479535be45b1.jpg",
+    "static/media/poster.jpg": "/NowThatsAWrap/static/media/poster.e9fcb665a734aae95d8a.jpg",
+    "static/media/uberEats.png": "/NowThatsAWrap/static/media/uberEats.10d6e221bcd36541c2a4.png",
+    "static/media/doorDash.png": "/NowThatsAWrap/static/media/doorDash.f56fd64f0876a6a99aa1.png",
+    "index.html": "/NowThatsAWrap/index.html",
+    "main.87146a7d.css.map": "/NowThatsAWrap/static/css/main.87146a7d.css.map",
+    "main.f69179b5.js.map": "/NowThatsAWrap/static/js/main.f69179b5.js.map",
+    "453.f9af8ee5.chunk.js.map": "/NowThatsAWrap/static/js/453.f9af8ee5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87146a7d.css",
-    "static/js/main.f8e0557f.js"
+    "static/js/main.f69179b5.js"
   ]
 }
